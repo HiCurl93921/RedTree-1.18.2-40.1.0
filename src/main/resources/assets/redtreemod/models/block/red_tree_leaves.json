@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "redtreemod:block/red_tree_leaves"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "redtreemod:block/red_tree_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "redtreemod:block/red_tree_log"
+    },
+    "axis=z": {
+      "model": "redtreemod:block/red_tree_log_horizontal",
+      "x": 90
+    }
+  }
+}

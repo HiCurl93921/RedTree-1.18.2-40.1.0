@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "redtreemod:block/red_tree_log_top",
+    "side": "redtreemod:block/red_tree_log"
+  }
+}
